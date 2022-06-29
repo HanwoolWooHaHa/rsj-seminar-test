@@ -13,11 +13,6 @@ text-align:left;
 height:110px;
 background-color:#2B2828;
 }
-.description {
-padding-left:10px;
-line-height:140%;
-color:#ffffff;
-}
 #header-inner {
 margin:0px auto 0px auto;
 width:700px;
@@ -27,6 +22,7 @@ padding:24px 0px 10px 0px;
 margin:0px auto 0px auto;
 width:700px;
 padding:10px 0px 0px 0px;
+color: #000000;
 }
 .description {
 padding-left:10px;
