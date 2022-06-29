@@ -14,13 +14,13 @@ background-color:#2B2828;
 }
 #head-inner {
 margin:0px auto 0px auto;
-padding:0px 0px 0px 0px;
+padding:10px 0px 0px 0px;
 width:694px;
 background-color:#2B2828;
-padding:0px;
+padding:25px;
 }
 .description {
-padding-left:0px;
+padding-left:10px;
 line-height:140%;
 color:#ffffff;
 }
