@@ -11,7 +11,7 @@ text-align:left;
 }
 #header {
 height:110px;
-background-color:#F5F3F0;
+background-color:#2B2828;
 border-top:4px solid #777777;
 }
 #header-inner {
@@ -27,6 +27,7 @@ padding:10px 0px 0px 0px;
 .description {
 padding-left:10px;
 line-height:140%;
+color:#ffffff;
 }
 
 #middle {
