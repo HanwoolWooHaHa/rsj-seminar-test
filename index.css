@@ -12,12 +12,17 @@ text-align:left;
 #header {
 height:110px;
 background-color:#2B2828;
-border-top:4px solid #777777;
 }
 #header-inner {
 margin:0px auto 0px auto;
 width:700px;
+background-color:#2B2828;
 padding:24px 0px 10px 0px;
+}
+.description {
+padding-left:10px;
+line-height:140%;
+color:#ffffff;
 }
 #text {
 margin:0px auto 0px auto;
@@ -27,7 +32,6 @@ padding:10px 0px 0px 0px;
 .description {
 padding-left:10px;
 line-height:140%;
-color:#ffffff;
 }
 
 #middle {
