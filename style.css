@@ -319,21 +319,11 @@ svg {
 | 7.3 CUSTOMER
 |
 --------------------------------------------------------------*/
-<!--
-.ui-section-customer__layout {
-  flex-direction: column;
-  row-gap: var(--ui-gap-customer);
+.ui-section-feature {
+  padding-bottom: 5rem;
+  padding-top: 5rem;
+  text-align: ;
 }
-
-.ui-section-customer--logo {
-  height: 1.5rem;
-  width: auto;
-}
-
-.ui-section-customer--logo-str { height: 1.75rem; }
-  
-.ui-section-customer--logo-bhn { height: 1.375rem; }
--->
 /*--------------------------------------------------------------
 |
 | 7.4 FEATURE
