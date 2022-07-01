@@ -85,7 +85,12 @@
     <li>Linux（Debian/Ubuntu）の場合：下記コマンドを実行してください。<br>
       <span class="look">$ sudo add-apt-repository ppa:gezakovacs/ppa</span><br>
       <span class="look">$ sudo apt-get update</span><br>
-      <span class="look">$ sudo apt-get install unetbootin</span></li>
+      <span class="look">$ sudo apt-get install unetbootin</span><br>
+      <div class="source_code">
+<pre>geometry_msgs::PoseStamped goal_pose;
+goal_pose.pose.orientation = tf::createQuaternionMsgFromYaw(3.14/*[rad]*/);</pre>
+</div>
+    </li>
     </ul>
   <li>誤って必要なデータを削除してしまうのを防ぐため、使用しない USB メモリや、メモリーカードを取り外し、使用する USB メモリのみを接続します。<br>
     使用する USB メモリは、ファイルが入っていない空の状態にして下さい。Live USB を作成する PC と Ubuntu をインストール する PC はそれぞれ別でも構いません。</li>
