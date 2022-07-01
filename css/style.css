@@ -366,3 +366,38 @@ ol {
 .big1 {font-size: 22px;letter-spacing: normal;}
 
 }
+
+.source_code.diff-orig{
+	border        : solid 1px #F0D0D0; 
+	background    : #f0e8e8; 
+
+}
+dl.errata .source_code{
+	margin-top: 0;
+	padding: 0.3em 0.5em;
+	width: 90%;
+	float: right;
+}
+.source_code{
+	margin        : 10px 3px 10px 15px;
+	padding       : 15px 10px;
+	border        : solid 1px #D0D0D0; 
+	background    : #e8f0f0; 
+	tab-size: 4;
+	-o-tab-size: 4;
+	-moz-tab-size: 4;
+}
+.source_code file{
+	font-size: 0.8em;
+	border-bottom: 1px dashed #FFFFFF;
+}
+.source_code pre{
+	overflow      : auto;
+	white-space   : pre-wrap;
+	word-wrap     : break-word;
+	font-family   :"Monaco","Courier",monospace;
+	font-size     : 0.9em;
+	line-height   : 18px;
+	margin        : 1px;
+	padding       : 1px;
+}
