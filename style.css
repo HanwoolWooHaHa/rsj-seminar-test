@@ -319,7 +319,7 @@ svg {
 | 7.3 CUSTOMER
 |
 --------------------------------------------------------------*/
-
+<!--
 .ui-section-customer__layout {
   flex-direction: column;
   row-gap: var(--ui-gap-customer);
@@ -333,7 +333,7 @@ svg {
 .ui-section-customer--logo-str { height: 1.75rem; }
   
 .ui-section-customer--logo-bhn { height: 1.375rem; }
-
+-->
 /*--------------------------------------------------------------
 |
 | 7.4 FEATURE
@@ -344,7 +344,7 @@ svg {
   padding-bottom: 5rem;
   padding-top: 5rem;
 }
-
+<!--
 .ui-section-feature__layout { row-gap: var(--ui-gap-feature); }
 
 .ui-section-feature__layout:nth-of-type(odd) div {
@@ -355,7 +355,7 @@ svg {
   margin-bottom: 5rem;
   margin-top: 5rem;
 }
-
+-->
 /*--------------------------------------------------------------
 |
 | 7.5 TESTIMONIAL
